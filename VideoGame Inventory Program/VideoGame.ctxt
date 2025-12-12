@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=VideoGame
+comment1.params=t
+comment1.target=VideoGame(java.lang.String)
+comment2.params=t\ y
+comment2.target=VideoGame(java.lang.String,\ int)
+comment3.params=t\ y\ c
+comment3.target=VideoGame(java.lang.String,\ int,\ java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=void\ showInfo()
+comment6.params=r
+comment6.target=void\ setRating(int)
+numComments=7
