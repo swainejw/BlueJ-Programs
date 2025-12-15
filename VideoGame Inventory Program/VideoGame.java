@@ -50,4 +50,14 @@ public class VideoGame
     {
         rating = r;
     }
+    
+    public void setTitle(String t)
+    {
+        title = t;
+    }
+    
+    public String getTitle()
+    {
+        return title;
+    }
 }
