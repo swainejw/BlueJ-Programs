@@ -16,7 +16,7 @@ public class Player
     /**
      * Constructor for objects of class Player
      */
-    public Player(String fn, String ln, int p, int r)
+    public Player(int r, String fn, String ln, int p)
     {
         fName = fn;
         lName = ln;

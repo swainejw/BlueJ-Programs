@@ -18,12 +18,13 @@ public class Main
             while (line != null)
             {
                 String[] info = line.split(" ");
+                
                 int rnk = Integer.parseInt(info[0]);
                 String frst = info[1];
                 String lst = info[2];
                 int pts = Integer.parseInt(info[3]);
 
-                players.add(new Player(frst, lst, pts, rnk));
+                players.add(new Player(rnk, frst, lst, pts));
                 line = br.readLine();
             }
             br.close();
