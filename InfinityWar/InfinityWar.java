@@ -15,8 +15,8 @@ public class InfinityWar
     {
         ArrayList<String> lines = new ArrayList<String>();
         BufferedReader br = new BufferedReader(new FileReader("infinityWar.txt"));
-        String temp = br.readLine();
         
+        String temp = br.readLine();
         while (temp != null && temp.length() > 0)
         {
             if (temp.charAt(0) != '[' && temp.charAt(0) != '(')
