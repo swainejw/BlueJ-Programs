@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Contact
+comment1.params=n\ pn\ su
+comment1.target=Contact(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=s
+comment10.target=int\ totalDigits(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getPhoneNumber()
+comment4.params=p
+comment4.target=void\ setPhoneNumber(java.lang.String)
+comment5.params=sn
+comment5.target=void\ setSnapUser(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getArea()
+comment7.params=
+comment7.target=boolean\ deleteUser()
+comment8.params=
+comment8.target=int\ getNumContacts()
+comment9.params=c
+comment9.target=int\ compDigits(Contact)
+numComments=12
