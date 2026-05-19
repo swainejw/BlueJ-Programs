@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Warehouse
+comment1.params=temperatures\ threshold
+comment1.target=boolean[][]\ aboveThresholdGrid(int[][],\ int)
+comment1.text=\n\ Part\ (a)\n\ Creates\ a\ boolean\ grid\ indicating\ which\ temperatures\ meet\ or\ exceed\n\ the\ given\ threshold.\n
+comment2.params=temperatures
+comment2.target=void\ sortRows(int[][])
+comment2.text=\n\ Part\ (b)\n\ Sorts\ each\ row\ of\ the\ grid\ in\ ascending\ order\ using\ insertion\ sort.\n
+comment3.params=elements
+comment3.target=void\ insertionSort(int[])
+comment4.params=row\ index
+comment4.target=int\ maxTempInRow(int[],\ int)
+comment4.text=\n\ Part\ (c)\n\ Recursively\ returns\ the\ maximum\ value\ in\ a\ single\ row.\n
+comment5.params=temperatures
+comment5.target=int\ maxTemperatureInWarehouse(int[][])
+comment5.text=\n\ Part\ (d)\n\ Returns\ the\ maximum\ temperature\ in\ the\ entire\ warehouse.\n
+comment6.params=temperatures\ row\ col
+comment6.target=boolean\ isLocalMaximum(int[][],\ int,\ int)
+comment6.text=\n\ Part\ (e)\n\ Determines\ whether\ the\ sensor\ at\ (row,\ col)\ is\ a\ local\ maximum.\n
+numComments=7
